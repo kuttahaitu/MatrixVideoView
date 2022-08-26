@@ -28,7 +28,7 @@
 
 */
 
-package com.matrixcri.in.videoview;
+package matrixcri.in.videoview;
 
 import android.content.Context;
 
