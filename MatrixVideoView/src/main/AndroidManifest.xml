@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="atrixcri.in.videoview">
+    package="matrixcri.in.videoview">
 
     <application android:allowBackup="true">
 
