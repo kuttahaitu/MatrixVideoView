@@ -5,8 +5,8 @@ android {
     buildToolsVersion "27.1.1"
 
     defaultConfig {
-        applicationId "com.matrixcri.in.videoview"
-        minSdkVersion 9
+        applicationId "matrixcri.in.videoview"
+        minSdkVersion 14
         targetSdkVersion 30
         versionCode 3
         versionName "1.0.2"
