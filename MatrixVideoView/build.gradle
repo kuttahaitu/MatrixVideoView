@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-
+apply from: "bintrayUpload.gradle"
 android {
     compileSdkVersion 27
     buildToolsVersion "27.1.1"
