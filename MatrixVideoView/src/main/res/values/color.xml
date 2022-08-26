@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="matrix_vv_gray">#969696</color>
+
+    <color name="matrix_vv_black">#ff000000</color>
+
+    <color name="matrux_vv_light_gray">#ffF0F0F0</color>
+
+    <color name="matrix_vv_titlebar_bg">#7f000000</color>
+
+</resources>
