@@ -15,7 +15,7 @@
 */
 
 
-package com.matrixcri;
+package com.matrixcri.in.videoview;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
