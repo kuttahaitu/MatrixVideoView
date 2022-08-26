@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="MatrixMediaController">
+        <attr name="mvv_scalable" format="boolean" />
+    </declare-styleable>
+
+
+    <declare-styleable name="MatrixVideoView">
+        <attr name="mvv_fitXY" format="boolean" />
+        <attr name="mvv_autoRotation" format="boolean" />
+    </declare-styleable>
+
+</resources>
