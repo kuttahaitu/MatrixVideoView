@@ -21,5 +21,4 @@ android {
 
 dependencies {
     compile 'com.android.support:appcompat-v7:27.1.1'
-    implementation 'com.github.matrixcrioff:MatrixVideoView:v2.3.4'
 }
