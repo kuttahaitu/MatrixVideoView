@@ -1,2 +1,4 @@
 # MatrixVideoView
-i try to make a professional VideoView for Android App Development.
+A smart VideoView build in java. Who support a full screen video player.
+and a Beautiful Ui design.
+
