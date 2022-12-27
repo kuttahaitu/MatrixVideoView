@@ -2,13 +2,14 @@
 A smart VideoView build in java. Who support a full screen video player.
 and a Beautiful Ui design.
 
-# HowtoUse
+<h1>How to Use</h1>
 
 1st download this repo and unzip the code then copy the file and paste in below Your project app file.
 after pasting the file open your app level build.gradel file and implement the project in them.
 
-now open your layout where you want to use VideoView. and Use this code
-‘<LinearLayout
+<h2>now open your layout where you want to use VideoView. and Use this code</h2>
+
+<LinearLayout
 android:id="@+id/video_layout_linear"
 android:layout_width="match_parent"
 android:layout_height="wrap_content" >
@@ -34,4 +35,4 @@ android:layout_width="fill_parent"
 android:layout_height="fill_parent"
 app:mv_scalable="true" />
 </FrameLayout>
-</LinearLayout>’
+</LinearLayout>
